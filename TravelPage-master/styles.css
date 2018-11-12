@@ -1,0 +1,22 @@
+
+nav{
+  position: absolute;
+}
+
+.jumbotron{
+  background-image:url(pretty.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: yellow;
+
+}
+
+body{
+  background-image: url(landscapeB.jpeg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+nav{
+  background-image: radial-gradient(pink, purple, black);
+}
