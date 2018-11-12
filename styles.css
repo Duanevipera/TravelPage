@@ -1,4 +1,8 @@
-body{background-color: grey;}
-.container{background-color: black;
-color:  green;
+
+nav{
+  position: absolute;
+}
+
+.jumbotron{
+  background-image:url(dining.jpg);
 }
