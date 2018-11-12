@@ -20,3 +20,8 @@ body{
 nav{
   background-image: radial-gradient(pink, purple, black);
 }
+
+
+#thing {
+  float: right;
+}
